@@ -35,4 +35,7 @@
 | ``Ethernet``|✅|
 | ``Sleep``|✅|
 | ``AirDrop ``|✅|
-| ``WiFi``|✅|
+| ``Wi-Fi``|✅|
+| ``H.264/HEVC 4K``|✅|
+
+
