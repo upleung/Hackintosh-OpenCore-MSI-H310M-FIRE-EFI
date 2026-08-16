@@ -20,6 +20,8 @@
 | ``dGPU``| AMD Radeon RX 580 8 GB |  |
 | ``Ethernet``|  |  |
 | ``Audio``|  |  |
+| ``Wireless Network Card``| Broadcom |  |
+
 
 ## Features
 
